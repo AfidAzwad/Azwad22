@@ -8,4 +8,4 @@
 - 💬 Ask me about  Git, RESTful API, JWT, React.Js, React Bootstrap, Python, Django- MVT, ORM, CRUD, PostgreSQL, MySQL etc.
 - 📫 How to reach me: mdazwad22@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: not interested
+- ⚡ Fun fact: wanna die with Programming
