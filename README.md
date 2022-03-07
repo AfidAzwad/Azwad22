@@ -9,3 +9,5 @@
 - 📫 How to reach me: mdazwad22@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: wanna die with Programming
+
+want more ? please visit : https://afidazwad.netlify.app/
