@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: wanna die with Programming
 
-want more ? please visit : https://afidazwad.me/
+want more ? please visit : https://afidazwad.netlify.app/
